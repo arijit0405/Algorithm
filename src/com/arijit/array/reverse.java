@@ -2,7 +2,7 @@ package com.arijit.array;
 
 public class reverse {
     public static void main(String[] args) {
-        int[] arr = {1, 21, 3, 4, 5, 34, 67};
+        int[] arr = {1, 21, 9, 4, 5, 34, 67};
         int l = arr.length;
         int n = Math.floorDiv(l, 2);
         int temp;

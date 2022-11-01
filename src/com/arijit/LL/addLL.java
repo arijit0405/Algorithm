@@ -10,7 +10,7 @@ import java.util.*;
     public static void main(String args[])
     {
         LinkedList<String> ll = new LinkedList<>();
-
+        //nnnnn
         ll.add("arijit");
         ll.add("bony");
         ll.add(1, "and");
